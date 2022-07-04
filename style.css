@@ -71,3 +71,57 @@ h3{
  
     text-align: justify;
 }
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 170px;
+    
+}
+.dis1{
+    /* width: 50%; */
+    height: 360px;
+    width: 540px;
+    
+    text-align: center;
+    background-color: #FFFAF0;
+    border-left: 4px solid red;
+    
+    
+    
+}
+.dis2{
+    height: 360px;
+    width: 540px;
+    text-align: center;
+    background-color: #FFFAF0;
+    border-left: 4px solid blue;
+    
+ 
+    /* width: 50%; */
+}
+.dis1 p{
+    text-align: justify;
+    padding: 0 25px;
+}
+
+.dis2 p{
+    text-align: justify;
+    padding: 0 25px;
+
+}
+p{
+    text-align: center;
+}
+.experience h1{
+    padding-left: 20px;
+}
+.experience{
+    margin-top: 30px;
+}
+.dis1 h3{
+    color: #761f8c;
+}
+
+.dis2 h3{
+    color: #761f8c;
+}
